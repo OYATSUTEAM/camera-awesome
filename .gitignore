@@ -1,0 +1,13 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+.idea/
+
+build/
+test/out/
+
+test_lab.sh
+firebase_key.txt
+google-services.json
